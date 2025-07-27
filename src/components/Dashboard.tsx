@@ -295,7 +295,7 @@ const Dashboard: React.FC<DashboardProps> = ({
         
         <button className="bg-green-600 hover:bg-green-700 px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2">
           <Download className="w-4 h-4" />
-          Download Tool
+          Download Application
         </button>
       </div>
     </div>

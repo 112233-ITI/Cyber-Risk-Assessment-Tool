@@ -1,8 +1,17 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "cyber-insurance-risk-assessment-tool",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Professional enterprise cybersecurity risk assessment platform for insurance companies and security professionals",
   "type": "module",
+  "keywords": ["cybersecurity", "risk-assessment", "insurance", "compliance", "security", "enterprise"],
+  "author": "CyberSec Solutions Inc.",
+  "license": "MIT",
+  "homepage": "https://cybersec-solutions.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybersec-solutions/cyber-insurance-risk-assessment.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
